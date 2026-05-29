@@ -10,7 +10,7 @@ from telegram.ext import Application, CommandHandler, CallbackQueryHandler
 # ============ কনফিগারেশন ============
 BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN_HERE"
 ADMIN_ID = 123456789  # আপনার টেলিগ্রাম ইউজার ID
-WEBHOOK_DOMAIN = "https://yourdomain.com"  # আপনার VPS বা Render.com URL
+WEBHOOK_DOMAIN = "https://fishing-rykp.onrender.com"  # আপনার VPS বা Render.com URL
 # ====================================
 
 app = Flask(__name__)

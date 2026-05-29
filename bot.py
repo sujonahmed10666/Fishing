@@ -8,9 +8,9 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler
 
 # ============ কনফিগারেশন ============
-BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN_HERE"
-ADMIN_ID = 123456789  # আপনার টেলিগ্রাম ইউজার ID
-WEBHOOK_DOMAIN = "https://fishing-rykp.onrender.com"  # আপনার VPS বা Render.com URL
+BOT_TOKEN = "8591288787:AAE7HSt1qUkZ-rD6zaY0wt73iwSrnmOd6MI"
+ADMIN_ID = 8502686983  # আপনার টেলিগ্রাম ইউজার ID
+WEBHOOK_DOMAIN = "https://fishing-1-l6ew.onrender.com"  # আপনার VPS বা Render.com URL
 # ====================================
 
 app = Flask(__name__)
